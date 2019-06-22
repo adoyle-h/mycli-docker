@@ -17,7 +17,8 @@ A Dockerfile for [mycli][].
 
 ## Usage
 
-I have built an docker image in https://cloud.docker.com/u/adoyle/repository/docker/adoyle/mycli .
+I have built an docker image in https://hub.docker.com/r/adoyle/mycli .
+
 You can use it directly, or build image by yourself (See [Developing](#developing)).
 
 ```sh
